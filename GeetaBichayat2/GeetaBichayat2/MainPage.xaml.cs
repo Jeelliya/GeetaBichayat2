@@ -11,6 +11,7 @@ namespace GeetaBichayat2
     {
         public MainPage()
         {
+            //This is the content Page that we need help
             InitializeComponent();
         }
     }
