@@ -7,8 +7,11 @@
     <StackLayout>
         <!-- Place new controls here -->
        <StackLayout>
-         <ListView>
-           </Listview>
+            <ListView>
+                <ListView.Itemtemplate>
+                    
+                </ListView.Itemtemplate>
+                </Listview>
          <StackLayout>
 
 </ContentPage>
